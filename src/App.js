@@ -7,6 +7,7 @@ import SideNav from "./Component/SideNav";
 import List from "./Component/List";
 import Content from "./Component/Content";
 import Features from "./Component/Features";
+import Programme from "./Component/Programme";
 import Footer from "./Component/Footer";
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
             <Route exact path="/list" component={List} />
             <Route exact path="/features" component={Features} />
             <Route exact path="/content" component={Content} />
+            <Route exact path="/programme" component={Programme}/>
           </div>
         </div>
         <div className="">
