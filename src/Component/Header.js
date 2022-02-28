@@ -43,18 +43,18 @@ const Header = () => {
                   aria-haspopup="true"
                   aria-expanded="false"
                 >
-                  Dropdown
+                  Technology
                 </a>
                 <div className="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a className="dropdown-item" href="#">
-                    Action
+                   Technology trends
                   </a>
                   <a className="dropdown-item" href="#">
-                    Another action
+                    Product Reviews
                   </a>
                   <div className="dropdown-divider"></div>
                   <a className="dropdown-item" href="#">
-                    Something else here
+                    SMB Events
                   </a>
                 </div>
               </li>

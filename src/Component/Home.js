@@ -22,21 +22,21 @@ const Home = () => {
           <div className="carousel-item active">
             <img
               className="user-img"
-              src="https://media.istockphoto.com/photos/indianapolis-skyline-at-sunset-picture-id123344998?s=612x612"
+              src="https://www.realnet.co.uk/uploads/news/4307a85b4db8420eb08d28bd49e8f183.jpg"
               alt="First slide"
             />
           </div>
           <div className="carousel-item">
             <img
               className="user1-img"
-              src="https://cdn.pixabay.com/photo/2022/02/15/09/08/art-7014518_960_720.jpg"
+              src="https://bashooka.com/wp-content/uploads/2019/03/web-carousel-example-2.jpg"
               alt="Second slide"
             />
           </div>
           <div className="carousel-item">
             <img
               className="user2-img"
-              src="https://cdn.pixabay.com/photo/2021/08/04/20/27/circuit-board-6522546__340.png"
+              src="https://bashooka.com/wp-content/uploads/2019/03/web-carousel-example-11.jpg"
               alt="Third slide"
             />
           </div>
